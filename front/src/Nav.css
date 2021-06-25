@@ -1,5 +1,4 @@
 .nav {
-  position: fixed;
   top: 0;
   padding: 20px;
   width: 100%;
@@ -17,7 +16,7 @@
 }
 
 .nav__black {
-  background-color: #5FD70F;
+  background-color: #30312e;
 }
 
 .nav__logo {
