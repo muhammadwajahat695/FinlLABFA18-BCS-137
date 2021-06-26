@@ -1,66 +1,63 @@
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: lightpink;
+  background-color: rgb(33, 54, 170);
 }
 
 a {
-  color: #00B7FF;
+  color: #00b7ff;
 }
-h1{
+h1 {
   color: darkblue;
   font-weight: bolder;
-  background-color:ivory;
+  background-color: ivory;
 }
-.form{
+.form {
   font-style: italic;
   font-weight: bolder;
   color: brown;
 }
-.form-control{
+.form-control {
   background-color: gold;
 }
-h2{
-  background-color: lavenderblush;
+h2 {
+  background-color: rgb(77, 89, 197);
 }
-.navbar{
+.navbar {
   color: aliceblue;
   font-size: large;
   background-color: aliceblue;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
-h2{
-  color: lightpink;
+h2 {
+  color: rgb(130, 101, 211);
   font-weight: bold;
 }
-#carttable{
+#carttable {
   font-size: medium;
   font-family: Arial, Helvetica, sans-serif;
   color: brown;
   table-layout: auto;
-  background-color: pink;
+  background-color: rgb(76, 105, 199);
 }
-#tfoot{
-  background-color: plum;
+#tfoot {
+  background-color: rgb(38, 36, 161);
   color: black;
   font-weight: bolder;
 }
-.form-group input#name{
-
+.form-group input#name {
   color: black;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-weight: bold;
   font-size: medium;
 }
-.form-group input#email{
-
+.form-group input#email {
   color: black;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-weight: bold;
   font-size: medium;
 }
-.form-group input#password{
-
+.form-group input#password {
   color: black;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
