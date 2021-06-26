@@ -1,5 +1,0 @@
-{
-  "db": "mongodb://localhost/LabTerminal",
-  "jwtPrivateKey": "hello",
-  "myenvironment": "Development"
-}
